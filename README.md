@@ -8,13 +8,13 @@ Source: https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ
     - ~~Data Types of Python~~ --> __Complete and Continue__
     - ~~Lists in Python~~ --> __Complete and Continue__
     - ~~Tuples and Dicts~~ --> __Complete and Continue__
-    - Built in Functions
-    - Creating a Your First Python Function
-    - Function Arguments
-    - Returns
-    - Keyworded Arguments
-    - Code Challenge!
-    - Conditionals part One
-    - if else and or
-    - for in
-    - Modules
+    - ~~Built in Functions~~ --> __Complete and Continue__
+    - ~~Creating a Your First Python Function~~ --> __Complete and Continue__
+    - ~~Function Arguments~~ --> __Complete and Continue__
+    - ~~Returns~~ --> __Complete and Continue__
+    - ~~Keyworded Arguments~~ --> __Complete and Continue__
+    - ~~Code Challenge!~~ --> __Complete and Continue__
+    - ~~Conditionals part One~~ --> __Complete and Continue__
+    - ~~if else and or~~ --> __Complete and Continue__
+    - ~~for in~~ --> __Complete and Continue__
+    - ~~Modules~~ --> __Complete and Continue__

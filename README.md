@@ -18,3 +18,15 @@ Source: https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ
     - ~~if else and or~~ --> __Complete and Continue__
     - ~~for in~~ --> __Complete and Continue__
     - ~~Modules~~ --> __Complete and Continue__
+
++ __BUILDING A JOB SCRAPPER__
+    - ~~What is Web Scrapping~~ --> __Complete and Continue__
+    - What are We Building
+    - Navigating with Python
+    - Extracting indeed Pages
+    - Extracting indeed Pages part Two
+    - Requesting Each Page
+    - Extracting Titles
+    - Extracting Companies
+    - Extracting Locations and Finishing up
+    - 

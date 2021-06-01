@@ -21,10 +21,10 @@ Source: https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ
 
 + __BUILDING A JOB SCRAPPER__
     - ~~What is Web Scrapping~~ --> __Complete and Continue__
-    - What are We Building
-    - Navigating with Python
-    - Extracting indeed Pages
-    - Extracting indeed Pages part Two
+    - ~~What are We Building~~ --> __Complete and Continue__
+    - ~~Navigating with Python~~ --> __Complete and Continue__
+    - ~~Extracting indeed Pages~~ --> __Complete and Continue__
+    - ~~Extracting indeed Pages part Two~~ --> __Complete and Continue__
     - Requesting Each Page
     - Extracting Titles
     - Extracting Companies

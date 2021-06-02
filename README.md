@@ -25,7 +25,7 @@ Source: https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ
     - ~~Navigating with Python~~ --> __Complete and Continue__
     - ~~Extracting indeed Pages~~ --> __Complete and Continue__
     - ~~Extracting indeed Pages part Two~~ --> __Complete and Continue__
-    - Requesting Each Page
+    - ~~Requesting Each Page~~  --> __Complete and Continue__
     - Extracting Titles
     - Extracting Companies
     - Extracting Locations and Finishing up

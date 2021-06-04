@@ -28,5 +28,5 @@ Source: https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ
     - ~~Requesting Each Page~~  --> __Complete and Continue__
     - ~~Extracting Titles~~ --> __Complete and Continue__
     - ~~Extracting Companies~~ --> __Complete and Continue__
-    - Extracting Locations and Finishing up
+    - ~~Extracting Locations and Finishing up~~ --> __Complete and Continue__
     - 
